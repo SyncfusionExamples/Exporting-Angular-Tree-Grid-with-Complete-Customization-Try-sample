@@ -10,7 +10,7 @@ Make sure that you have the compatible versions of TypeScript and Angular in you
 * TypeScript 2.6+
 
 ## How to run this application
-To run this application, you need to first clone the `Exporting Angular TreeGrid with Complete Customization - Try sample` repository and then navigate to the path where it has been stored in your system.
+To run this application, you need to first clone the `Exporting Angular TreeGrid with Complete Customization-Try sample` repository and then navigate to the path where it has been stored in your system.
 
 To do so, open the command prompt and run the below commands one after the other.
 
