@@ -1,6 +1,8 @@
 # Exporting Angular Tree Grid with Complete Customization - Try sample
 Use this sample to learn exporting in the Syncfusion Angular Tree Grid control with complete customization. In this example, we have added code for Tree Grid modules along with data. With this, you can quickly add code to follow the instructions provided in the following video link.
 
+Watch the video now: https://www.syncfusion.com/tutorial-videos/angular/treegrid?title=exporting-angular-tree-grid-with-complete-customization
+
 Documentation:
 https://ej2.syncfusion.com/angular/documentation/treegrid/pdf-export
 
